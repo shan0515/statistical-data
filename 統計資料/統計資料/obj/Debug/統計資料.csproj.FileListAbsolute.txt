@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\程式\統計資料\統計資料\bin\Debug\統計資料.exe.config
+C:\Users\c618-3\Desktop\統計資料\統計資料\bin\Debug\統計資料.exe.config
+C:\Users\c618-3\Desktop\統計資料\統計資料\bin\Debug\統計資料.exe
+C:\Users\c618-3\Desktop\統計資料\統計資料\bin\Debug\統計資料.pdb
+C:\Users\c618-3\Desktop\統計資料\統計資料\obj\Debug\統計資料.csprojResolveAssemblyReference.cache
+C:\Users\c618-3\Desktop\統計資料\統計資料\obj\Debug\統計資料.exe
+C:\Users\c618-3\Desktop\統計資料\統計資料\obj\Debug\統計資料.pdb
